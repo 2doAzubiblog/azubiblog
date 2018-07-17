@@ -1,7 +1,7 @@
 // --------------------------------------------
 // Projektordner
 // --------------------------------------------
-var projectFolder = 'starter-pack';
+var projectFolder = 'azubiblog';
 
 
 

@@ -1,8 +1,8 @@
 {
-    "name": "starter-pack",
+    "name": "azubiblog",
     "version": "1.0.0",
-    "description": "Starter Project",
-    "main": "index.html",
+    "description": "2do Azubiblog",
+    "main": "index.php",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
