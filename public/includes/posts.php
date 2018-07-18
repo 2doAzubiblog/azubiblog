@@ -2,6 +2,7 @@
 
 
   <div class="content">
+    <a href="einzelpost"></a>
     <img src="assets/images/omrfestival.jpg" alt="omrfestival" class="postpicture" width="400px" height="400px">
       <div class="post-overlay">
         <div class="post-header">
